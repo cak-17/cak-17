@@ -2,12 +2,11 @@
 
   Looking for help, collabs, share or just a chat about:
   - Python, Django; 
-  - HTML5, CSS, JavaScript; 
-  - Swift, XCode;
+  - HTML5, CSS, JavaScript, React/Redux; 
 
   How to reach me -> tg: [@cak_17](https://t.me/cak_17)
 
-  <em>/ Musician turned hobbyist programmer thanks to Covid,
+  <em>/ Musician turned programmer thanks to Covid,
     I guess reskilling is the new black. /</em>
     
 
